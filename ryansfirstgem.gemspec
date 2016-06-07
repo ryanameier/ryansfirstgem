@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{: this is my 1st gem.}
   spec.description   = %q{: the goal of this gem is being determined.}
-  spec.homepage      = "https://github.com/ryanameier/ryansfirstgem"
+  spec.homepage      = "https://github.com/ryanameier/ryansfirstgem.git"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
